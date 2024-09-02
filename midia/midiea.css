@@ -1,0 +1,274 @@
+ 
+/* Extra large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) {
+}
+/* Large devices (desktops, 992px and up) */
+@media (min-width: 992px) and (max-width: 1199.98px) {
+}
+
+/* Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) and (max-width: 991.98px) {
+}
+/* Small devices (landscape phones, 576px and up) */
+@media (min-width: 576px) and (max-width: 767.98px) {
+  /* Header Part Start  */
+}
+/* Header Part End */
+/* Banner Part Start  */
+
+/* Extra small devices (portrait phones, less than 576px) */
+@media (min-width: 320px) and (max-width: 575.98px) {
+  .nav-item a {
+    background: #9564de;
+    text-align: center;
+  }
+  /* bannerpart start  */
+  .banner {
+    height: 300px;
+  }
+  .branding {
+    top: 22%;
+    left: 4px;
+    font-size: 15px;
+  }
+  /* bannerpart start  */
+
+  #Marketplace {
+    padding-top: 19px;
+   
+  }
+  .marketImg img {
+    width: 372px;
+    height: 492px;
+  }
+  .video{ 
+    height: 120px;
+    width: 250px;
+    padding-left: 50px;
+  }
+  .marketPlaceText a {
+    padding: 6px 15px; 
+    font-size: 13px; 
+  }
+  .marketPlaceText p {
+    font-size: 14px; 
+    margin-bottom: 20px;
+  }
+  .marketplace_icone a {
+    font-size: 12px;
+   text-align: center;
+  } 
+  .marketPlacheText { 
+    padding: 20px 10px 20px 11px; 
+  }
+  .marketBtn a {
+    padding: 11px 25px; 
+    font-size: 14px; 
+  }
+  .marketBtn {
+    margin-top: 22px;
+  }
+  .bankOne { 
+    padding-bottom: 50px;
+    
+  }
+  .bankOne img{
+    width: 100px; 
+  }
+  #galaryPart{
+    margin-top: 50px;
+    margin-bottom: 10px;
+  }
+  
+  .galaryText h3 {
+    font-size: 30px;  
+    padding-top: 7px;
+  }
+  .muscicText {
+    font-size: 17px; 
+    padding-top: 2px;
+  }
+  .roomItem {
+    margin-top: 12px;
+    text-align: center;
+  }  
+  .roomImgItem img {
+    margin-top: 23px;
+    border: 16px solid #ffffff;
+    box-shadow: 4px 2px 2px 2px rgba(0, 0, 0, 0.152);
+    margin-left: 5px;
+    height: 322px;
+    width: 100%;
+  }
+  .roomImageItemes img{
+    width: 100%;
+    height: 400px;
+  }
+ 
+  /* galry part end  */
+  /* start  */
+ 
+  #homePart{
+    padding: 90px 0; 
+  }
+  .homeCardItems { 
+    width: 100%; 
+    margin-top: 10px;
+  }
+  #homePart {
+    padding: 38px 0;
+  }
+  .cardIcone p{
+    padding-right: 15px;
+  }
+  .claint { 
+    margin-top: 7px;
+  } 
+  /*hpme card part eng */
+
+  /*from psrt start  */
+#fromPart{
+margin-top: 10px;
+}
+.about { 
+    font-size: 16px;
+  }
+  .fromPartHedingText h2 {
+    font-size: 31px;
+    font-weight: 500; 
+  }
+  .fromLink ul li a { 
+    font-size: 17px;  
+  }
+  .from { 
+    padding: 16px;
+  }
+  .from p {
+    font-size: 13px; 
+  }
+  .foromTaitel h5 {
+    font-size: 9px; 
+    padding-top: 1px;
+  }
+  .fromImg img{ 
+  width: 20px;
+    margin-bottom: 40px;
+    visibility: hidden;
+  /*  from psrt end  */
+  /* banner part end  */
+}
+.fromImg {
+    padding-top: 38px; 
+  }
+
+/* videoPart  */
+#videoPart{
+    margin-top: 30px;
+   } 
+.video iframe{
+    width: 100%;
+    height: 302px; 
+}
+
+/* prodact item part  */
+#prodactItemPart{
+    margin-top: 30px; 
+}
+.marketPlaceText h3 {
+    font-size: 23px;
+     
+  }
+.prodactItemPartText h3 {
+    font-size: 26px; 
+  }
+  .prodactCardItem { 
+    width: 100%;
+    height: 250px;
+  }
+
+  .ReviewPartText h2 {
+    padding-bottom: 13px; 
+  }
+
+  .revewcard p {
+    font-size: 9px; 
+  }
+  .claintd h5 {
+    font-size: 10px; 
+  }
+  .claintd p {
+    font-size: 5px; 
+  }
+  .claintd img { 
+    width: 44px;
+    height: 27px;
+  }
+  .revewcard { 
+    width: 333px;
+    height: 216px; 
+    padding: 0 10px;
+  }
+
+  /* newes part  */
+  #newesPartSection{
+    margin-top: 20px;
+  }
+
+  .newHedingPart {
+    padding: 0;  
+  }
+
+  .ReviewPartText h2 { 
+    font-size: 25px; 
+  }
+.img_two img {
+    padding-left: 0;
+    margin-top: 20px;
+    width: 100%;
+  }
+ .imges-withe img{
+    width: 100%;
+    margin-top: 20px;
+ }
+  #footerPart{
+    margin-top: 110px; 
+  }
+
+  .footErPosion { 
+    width: 430px;
+  }
+  .footertextets h4 {
+    font-size: 17px; 
+  }
+  .footertextets p {
+    font-size: 13px; 
+  }
+  .btns p {
+    padding: 20px;
+    background-color: #FFFFFF; 
+    margin-top: 7px;
+    font-size: 10px; 
+    margin-left: 10px;
+  }
+  .usefulLinksPart {
+    padding-left: 13px;
+    padding-top: 37px;
+  }
+.footer-link-icone{
+    display: flex;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
