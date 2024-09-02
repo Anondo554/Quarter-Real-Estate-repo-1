@@ -1,9 +1,104 @@
  
 /* Extra large devices (large desktops, 1200px and up) */
 @media (min-width: 1200px) {
+  .branding { 
+    top: 19%;
+    left: -21px;
+    font-size: 61px; 
+  }
+  .marketPlaceText h3 {
+    font-size: 40px; 
+  }
+  .marketPlaceText p {
+    font-size: 15px; 
+  }
+  .marketPlacheText {
+    margin-top: 18px; 
+  }
+  .roomImgItemOne img{
+   width: 300px;
+   height: 845px;
+  }
+  .roomImageItemeTwo img{
+   width: 280px;
+   height: 400px;
+
+  }
+  .roomImgItemTree{  
+   width: 280px;
+   height: 400px;
+   padding-right: 50px; 
+  }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 /* Large devices (desktops, 992px and up) */
 @media (min-width: 992px) and (max-width: 1199.98px) {
+
 }
 
 /* Medium devices (tablets, 768px and up) */
@@ -41,9 +136,9 @@
     width: 372px;
     height: 492px;
   }
-  .video{ 
-    height: 120px;
-    width: 250px;
+  .video iframe{ 
+    width: 100px;
+    height: 100px;
     padding-left: 50px;
   }
   .marketPlaceText a {
